@@ -6,6 +6,7 @@ Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Ne
 * Trained five CNNs: ResNet, InceptionV3, Xception, VGG-16 and DenseNet with hyper-parameters via the HAM10000 dataset and detailed the performance of these models. 
 * Also tested the final model ResNet50 with custom weights on two external datasets being ISIC-2019 and PAD-UFES-20. 
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
+* Achieved validation accuracy of 89% and recall rate of 82%
 
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_data_analysis.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview.PNG)
