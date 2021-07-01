@@ -11,7 +11,7 @@ Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Ne
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_data_analysis.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/2_resources.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softmapping.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softattention.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_raw_preprocessed.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/5_YAML.PNG)
 ![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/6_parameter1.PNG)
