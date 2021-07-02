@@ -1,4 +1,4 @@
-# skin_cancer_classifier
+# Skin cancer classifier
 Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks
 
 * The dataset chosen for this comparative analysis is titled Human Against Machine with 10,000 training images (HAM10000)
