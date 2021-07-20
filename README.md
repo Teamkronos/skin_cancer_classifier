@@ -7,18 +7,6 @@
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
 * Achieved validation accuracy of 89% and recall rate of 82%
 
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_data_analysis.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/2_resources.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softattention.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_raw_preprocessed.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/5_YAML.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/6_parameter1.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/7_parameter2.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/7_parameter3.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/9_accuracy.PNG)
-![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/10_recall.PNG)
-
 Guide to use Framework to train HAM10000 dataset from scratch.
 Refer notebook “Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks”
 STEP 1
@@ -77,3 +65,15 @@ OPTIONAL
 STEP 11
 To use the weights of Pretrained model run on HAM10000 on PADUFES, use other notebook PADUFES-20_Dataset_run, ensuring relevant model
 is loaded.
+
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/1_Overview.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/0_data_analysis.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/2_resources.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/3_softattention.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/4_raw_preprocessed.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/5_YAML.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/6_parameter1.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/7_parameter2.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/7_parameter3.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/9_accuracy.PNG)
+![](https://github.com/Teamkronos/Eugene_Portfolio/blob/main/images/10_recall.PNG)
