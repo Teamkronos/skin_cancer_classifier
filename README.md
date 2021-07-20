@@ -7,11 +7,11 @@
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
 * Achieved validation accuracy of 89% and recall rate of 82%
 
-Guide to use Framework to train HAM10000 dataset from scratch.
+## Guide to use Framework to train HAM10000 dataset from scratch.
 Refer notebook “Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks”
-STEP 1
-Place the data at below folder in AWS
-'/home/ubuntu/data/HAM10000_all_images'
+
+STEP 1 
+Place the data at below folder in AWS '/home/ubuntu/data/HAM10000_all_images'
 
 STEP 2
 Run the ‘Utilities’ code ONCE and images gets classified to folders based on their respective classes. By default, there are 7 classes but using the mapping variable 
