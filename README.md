@@ -7,7 +7,7 @@
 * The benefits of this study include a novel approach to melanoma detection using CNNs, as well as an important aid for melanoma diagnosis in clinical settings.
 * Achieved validation accuracy of 89% and recall rate of 82%
 
-## Guide to use Framework to train HAM10000 dataset from scratch.
+## Guide to use Framework to train HAM10000 dataset from scratch. (Please also refer to the uploaded zoom video)
 Refer notebook “Skin Cancer Pattern Extraction and Prediction Using Deep Convolutional Neural Networks”
 
 STEP 1 
